@@ -1,0 +1,2 @@
+# Python_Programming_Course_mysample
+我看Python程式設計第三版一書，所寫的作業範例。
